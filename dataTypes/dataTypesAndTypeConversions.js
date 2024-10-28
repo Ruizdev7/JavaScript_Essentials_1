@@ -81,6 +81,7 @@ All possible return values of the typeof operator are:
 
  */
 
+/** 
 let year = 1990;
 console.log(typeof year); //  ->  number
 console.log(typeof 1991); //  ->  number
@@ -92,3 +93,4 @@ console.log(typeof "Bob"); //  ->  string
 let typeOfYear = typeof year;
 console.log(typeOfYear); //  ->  number
 console.log(typeof typeOfYear); //  ->  string
+ */
