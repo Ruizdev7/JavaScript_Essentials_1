@@ -21,7 +21,7 @@ let halfArea = area / 2;
 console.log(year); // -> 1991;
 console.log(typeof year); // -> number;
 
-/*
+/**
 Numbers in JavaScript are usually presented in decimal form, which we are used to in everyday life. 
 However, if a literal describing a number is preceded by an appropriate prefix, 
 we can present it in hexadecimal (0x…), octal (0o...) or binary (0b...) form. 
